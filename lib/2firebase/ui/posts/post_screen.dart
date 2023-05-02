@@ -3,7 +3,7 @@ import 'package:firebase_database/firebase_database.dart';
 import 'package:firebase_database/ui/firebase_animated_list.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:sqlite/2firebase/Utils/utils.dart';
+import 'package:sqlites/2firebase/Utils/utils.dart';
 
 import '../auth/login_screen.dart';
 import 'add_post.dart';

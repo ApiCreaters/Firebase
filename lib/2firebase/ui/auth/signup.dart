@@ -1,8 +1,8 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:sqlite/2firebase/ui/auth/login_screen.dart';
-import 'package:sqlite/2firebase/ui/posts/post_screen.dart';
+import 'package:sqlites/2firebase/ui/auth/login_screen.dart';
+import 'package:sqlites/2firebase/ui/posts/post_screen.dart';
 
 import '../../Utils/utils.dart';
 import '../../widget/round_btn.dart';

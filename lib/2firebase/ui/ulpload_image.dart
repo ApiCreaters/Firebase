@@ -3,8 +3,8 @@ import 'package:firebase_database/firebase_database.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
-import 'package:sqlite/2firebase/Utils/utils.dart';
-import 'package:sqlite/2firebase/widget/round_btn.dart';
+import 'package:sqlites/2firebase/Utils/utils.dart';
+import 'package:sqlites/2firebase/widget/round_btn.dart';
 
 import 'package:firebase_storage/firebase_storage.dart' as firebase_storage;
 

@@ -1,6 +1,6 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
-import 'package:sqlite/1sql1/Database.dart';
+import 'package:sqlites/1sql1/Database.dart';
 
 import '2firebase/ui/splash.dart';
 

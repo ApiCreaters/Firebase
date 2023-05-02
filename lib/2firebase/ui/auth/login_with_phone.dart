@@ -1,9 +1,9 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:sqlite/2firebase/Utils/utils.dart';
-import 'package:sqlite/2firebase/ui/auth/verify_code.dart';
-import 'package:sqlite/2firebase/widget/round_btn.dart';
+import 'package:sqlites/2firebase/Utils/utils.dart';
+import 'package:sqlites/2firebase/ui/auth/verify_code.dart';
+import 'package:sqlites/2firebase/widget/round_btn.dart';
 
 class LoginWithPhoneNumber extends StatefulWidget {
   const LoginWithPhoneNumber({Key? key}) : super(key: key);

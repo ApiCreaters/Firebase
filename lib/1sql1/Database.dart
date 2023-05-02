@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:sqlite/1sql1/db_helper.dart';
+import 'package:sqlites/1sql1/db_helper.dart';
 
 class DatabaseScreen extends StatelessWidget {
   const DatabaseScreen({Key? key}) : super(key: key);

@@ -2,7 +2,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:sqlite/2firebase/ui/auth/signup.dart';
+import 'package:sqlites/2firebase/ui/auth/signup.dart';
 
 import '../../Utils/utils.dart';
 import '../../widget/round_btn.dart';

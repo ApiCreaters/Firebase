@@ -1,8 +1,8 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:sqlite/2firebase/Utils/utils.dart';
-import 'package:sqlite/2firebase/widget/round_btn.dart';
+import 'package:sqlites/2firebase/Utils/utils.dart';
+import 'package:sqlites/2firebase/widget/round_btn.dart';
 
 class ForegotPasswordScreen extends StatefulWidget {
   const ForegotPasswordScreen({Key? key}) : super(key: key);
